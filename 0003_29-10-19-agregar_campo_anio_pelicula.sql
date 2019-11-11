@@ -1,0 +1,1 @@
+ALTER TABLE cine.peliculas ADD  año int(4) DEFAULT 2019;
